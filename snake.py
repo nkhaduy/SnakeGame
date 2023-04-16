@@ -82,7 +82,7 @@ def move():
         head.setx(x + 20)
 
 # Keyboard bindings
-wn.listen()
+wn.listen() #testing only 
 wn.onkeypress(go_up, "w")
 wn.onkeypress(go_down, "s")
 wn.onkeypress(go_left, "a")
