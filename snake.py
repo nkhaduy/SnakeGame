@@ -1,6 +1,6 @@
 # Simple Snake Game in Python 3 
 # By nkhaduy
-
+import loop
 import turtle
 import time
 import random
