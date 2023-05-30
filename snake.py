@@ -3,7 +3,6 @@
 import loop
 import turtle
 import time
-import command 
 
 delay = 0.1
 # Score
